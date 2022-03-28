@@ -1,0 +1,25 @@
+.card{
+    height: 150px;
+    width: 50%;
+    border: none;
+    border-radius: 8px;
+}
+.card-button{
+    background: rgb(45,154,22);
+    background: linear-gradient(90deg, rgba(45,154,22,1) 0%, rgba(76,240,93,1) 100%);
+}
+.image{
+    max-width:100%;
+    max-height:120px;
+}
+
+.imagefix{
+    position:relative;
+    max-width:70px;
+    max-height:60px;
+    left:49%;
+    top:70%;
+}
+.form-control{
+    top:30px;
+}
